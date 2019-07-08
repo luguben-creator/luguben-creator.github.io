@@ -1,6 +1,6 @@
-book_filename: "bookdown-demo"
-output_dir: "docs"
+book_filename: "Core_Mathematics_Past_Questions_Paper2"
+delete_merged_file: true
+output_dir: docs
 language:
   ui:
     chapter_name: "Chapter "
-delete_merged_file: true
